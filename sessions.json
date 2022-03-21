@@ -1,2 +1,7 @@
-//tempel session luh disini
-//paste your sessions here
+{
+	"clientID": "u1gKAaXZK8q5O0aWD3tLHw==",
+	"serverToken": "1@z+BWcAWWd8umpTVyb5jY4YUXtNLSZLkiylJ7Pimjyj33FDYTkqC8a/HV1mmxlXcDRhK2CapNCo07qg==",
+	"clientToken": "dbq881dOARncyYHp0JYU6P4L891Nmn5be6kQAgnkVYc=",
+	"encKey": "8q/D1xiUFYCOgHX+q8JBCYPeE3HZfzhHydrJG4qx2uc=",
+	"macKey": "tnrUyeQwn9bR76kdM+EpXcDyrmZS0cpxrUDRpPvMBm0="
+}
